@@ -6,3 +6,5 @@
  to see where the entity is located on the client side.
  
  Commands /positiondebug (toggles debugging on and off)
+
+ Supported Versions: 1.8.9
