@@ -8,3 +8,5 @@
  Commands: /positiondebug (toggles debugging on and off)
 
  Supported Versions: 1.8.9
+
+ Download the jar [here](https://github.com/UniqueGuy/AttackedEntityPositionDebugMod/releases).
