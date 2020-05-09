@@ -5,6 +5,6 @@
  This might be useful if you're developing a reach check and you need
  to see where the entity is located on the client side.
  
- Commands /positiondebug (toggles debugging on and off)
+ Commands: /positiondebug (toggles debugging on and off)
 
  Supported Versions: 1.8.9
